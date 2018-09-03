@@ -1,5 +1,5 @@
 # line-liff-register
-CLI Tool to help register/update LINE LIFF apps
+CLI Tool to help register/update LINE Frontend Framework (LIFF) apps
 
 ## How it work
 This CLI read LIFF configulation from JSON file and make request(s) to LINE API to generate/update LIFF apps automatically.

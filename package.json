@@ -1,0 +1,32 @@
+{
+  "name": "line-liff-register",
+  "version": "1.0.0",
+  "description": "CLI Tool to help register/update LINE LIFF apps",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "log-update": "^2.3.0",
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-config-standard-jsx": "^6.0.2",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sitthi",
+  "license": "ISC",
+  "keywords": [
+    "LIFF"
+  ]
+}
